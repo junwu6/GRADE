@@ -9,7 +9,7 @@ The code has been tested under Python 3.6.5. The required packages are as follow
 
 ## Data Sets
 We used the following data sets in our experiments:
-* [Airport](https://github.com/GentleZhu/EGI/tree/main/data)
+* [Airport Networks](https://github.com/GentleZhu/EGI/tree/main/data)
 
 ## Run the Codes
 For cross-network node classification, please run
