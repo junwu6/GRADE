@@ -3,9 +3,10 @@ An implementation for "Non-IID Transfer Learning on Graphs" (AAAI'23).
 
 ## Environment Requirements
 The code has been tested under Python 3.6.5. The required packages are as follows:
-* numpy==1.18.1
-* torch==1.4.0
-* torchvision==0.5.0
+* numpy
+* torch
+* torchvision
+* dgl
 
 ## Data Sets
 We used the following data sets in our experiments:
