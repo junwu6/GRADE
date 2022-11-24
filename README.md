@@ -11,7 +11,7 @@ The code has been tested under Python 3.6.5. The required packages are as follow
 We used the following data sets in our experiments:
 * [Airport Networks](https://github.com/GentleZhu/EGI/tree/main/data)
 * [Citation Networks](https://github.com/GRAND-Lab/UDAGCN/tree/master/data)
-* [Amazon Data](https://jmcauley.ucsd.edu/data/amazon/)
+* [Amazon Review](https://jmcauley.ucsd.edu/data/amazon/)
 
 ## Run the Codes
 For cross-network node classification, please run
