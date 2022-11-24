@@ -10,6 +10,7 @@ The code has been tested under Python 3.6.5. The required packages are as follow
 ## Data Sets
 We used the following data sets in our experiments:
 * [Airport Networks](https://github.com/GentleZhu/EGI/tree/main/data)
+* [Citation Networks](https://github.com/GRAND-Lab/UDAGCN/tree/master/data)
 
 ## Run the Codes
 For cross-network node classification, please run
@@ -21,7 +22,7 @@ python main.py
 This is the latest source code of **GRADE** for AAAI-2023. If you find that it is helpful for your research, please consider to cite our paper:
 
 ```
-@inproceedings{wu2022noniid,
+@inproceedings{wu2023noniid,
   title={Non-IID Transfer Learning on Graphs},
   author={Wu, Jun and He, Jingrui and Ainsworth, Elizabeth},
   booktitle={Thirty-Seventh AAAI Conference on Artificial Intelligence},
