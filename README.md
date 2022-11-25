@@ -14,12 +14,6 @@ We used the following data sets in our experiments:
 * [Citation Networks](https://github.com/GRAND-Lab/UDAGCN/tree/master/data)
 * [Amazon Review Data](https://jmcauley.ucsd.edu/data/amazon/)
 
-## Run the Codes
-For cross-network node classification, please run
-```
-python main.py
-```
-
 ## Acknowledgement
 This is the latest source code of **GRADE** for AAAI-2023. If you find that it is helpful for your research, please consider to cite our paper:
 
