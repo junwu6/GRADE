@@ -21,7 +21,10 @@ This is the latest source code of **GRADE** for AAAI-2023. If you find that it i
 @inproceedings{wu2023noniid,
   title={Non-IID Transfer Learning on Graphs},
   author={Wu, Jun and He, Jingrui and Ainsworth, Elizabeth},
-  booktitle={Thirty-Seventh AAAI Conference on Artificial Intelligence},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={37},
+  number={9},
+  pages={10342--10350},
   year={2023}
 }
 ```
