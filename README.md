@@ -1,5 +1,5 @@
 # GRADE
-An implementation for "Non-IID Transfer Learning on Graphs" (AAAI'23).
+An implementation for "[Non-IID Transfer Learning on Graphs](https://ojs.aaai.org/index.php/AAAI/article/view/26231)" (AAAI'23).
 
 ## Environment Requirements
 The code has been tested under Python 3.6.5. The required packages are as follows:
